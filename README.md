@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Salim</h1>
-<h3 align="center">A passionate Laravel developer and Information Security student from Oman</h3>
+<h3 align="center">A passionate Information Security Student and Laravel developer from Oman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mogr488&label=Profile%20views&color=0e75b6&style=flat" alt="mogr488" /> </p>
 

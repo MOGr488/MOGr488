@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/salimaltoubi4" target="blank"><img src="https://img.shields.io/twitter/follow/salimaltoubi4?logo=twitter&style=for-the-badge" alt="salimaltoubi4" /></a> </p>
 
-- 🔭 I’m currently working on [myprojects](https://github.com/MOGr488/myprojects)
+- 🔭 I’m currently working on Creating **Resftul API for Rihal Code Challenge**. 
+
+- 🔭 I’m currently working on side project [myprojects](https://github.com/MOGr488/myprojects)
 
 - 🌱 I’m currently learning **Laravel, Tailwind**
 
